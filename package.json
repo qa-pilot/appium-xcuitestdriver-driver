@@ -1,5 +1,5 @@
 {
-  "name": "appium-xcuitest-driver",
+  "name": "appium-xcuitestdriver-driver",
   "description": "Appium driver for iOS using XCUITest for backend",
   "keywords": [
     "appium",
@@ -13,10 +13,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/appium/appium-xcuitest-driver.git"
+    "url": "https://github.com/qa-pilot/appium-xcuitestdriver-driver"
   },
   "bugs": {
-    "url": "https://github.com/appium/appium-xcuitest-driver/issues"
+    "url": "https://github.com/qa-pilot/appium-xcuitestdriver-driver/issues"
   },
   "engines": {
     "node": ">=16",
